@@ -17,7 +17,7 @@ How to use:
     cname = "._domainkey.example.com"
     ```
 
-3. If you aren't using [Fastmail](https://www.fastmail.com), adjust the "fm" ID in the CNAME to what's used by your email provider. (For example, [protonmail](https://proton.me/mail) is just "protonmail")
+3. If you aren't using [Fastmail](https://www.fastmail.com), adjust the "fm" ID in the CNAME to what's used by your email provider. (For example, [Protonmail](https://proton.me/mail) is just "protonmail")
 
     ```terraform
     import {
